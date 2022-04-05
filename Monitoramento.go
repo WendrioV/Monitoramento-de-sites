@@ -15,20 +15,14 @@ import (
 const monitoramentos = 3
 const delay = 5
 func main (){
-	 /*
-	 :=
-	 tipo =
-	 */
+	 
 	 exibeIntroducao()
 	 registralog("site-falso",false)
 	 for {
+	
+	exibeMenu()
 		
-
-
-		exibeMenu()
-		
-
-	comando := leComando()
+		comando := leComando()
 
 	switch comando {
 	case 1:
