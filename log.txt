@@ -25,3 +25,4 @@
 04/04/2022 23:40:06-https://alura.com.br-online:true
 04/04/2022 23:40:07-https://caelum.com.br-online:true
 04/04/2022 23:40:07-https://casadocodigo.com.br-online:true
+04/04/2022 23:56:30-site-falso-online:false
